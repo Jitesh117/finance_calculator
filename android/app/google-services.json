@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "680360783540",
+    "firebase_url": "https://photo-storage-d4680-default-rtdb.firebaseio.com",
+    "project_id": "photo-storage-d4680",
+    "storage_bucket": "photo-storage-d4680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680360783540:android:d1c32621cb661c92b031e1",
+        "android_client_info": {
+          "package_name": "com.example.fin_calc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680360783540-bv1ldqof1r7hcs89ipotp5hi5ggipbbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2XzNpl6oESuAYNuzFHQX5jf1l-w16gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680360783540-bv1ldqof1r7hcs89ipotp5hi5ggipbbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680360783540:android:e00257b4058c79d5b031e1",
+        "android_client_info": {
+          "package_name": "com.jitesh117.photo_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680360783540-bv1ldqof1r7hcs89ipotp5hi5ggipbbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2XzNpl6oESuAYNuzFHQX5jf1l-w16gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680360783540-bv1ldqof1r7hcs89ipotp5hi5ggipbbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
